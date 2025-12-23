@@ -21,10 +21,13 @@ I’m a dedicated **Full Stack Developer** specializing in **Java, Spring Boot, 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript)
 
-### ⚙️ Backend / Frameworks
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat-square&logo=springboot)
-![Spring Cloud](https://img.shields.io/badge/-Spring%20Cloud-05122A?style=flat-square&logo=spring)
-![JPA/Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat-square&logo=hibernate)
+  ### ⚙️ Backend / Frameworks
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat-square&logo=springboot)
+  ![Spring Cloud](https://img.shields.io/badge/-Spring%20Cloud-05122A?style=flat-square&logo=spring)
+  ![JPA/Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat-square&logo=hibernate)
+  ![Microservices](https://img.shields.io/badge/-Microservices-05122A?style=flat-square)
+  ![React.js](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react)
+
 
 ### 🛠 Tools & Platforms
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker)
@@ -43,7 +46,7 @@ I’m a dedicated **Full Stack Developer** specializing in **Java, Spring Boot, 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
 
-> *Tip: Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.* :contentReference[oaicite:1]{index=1}
+> *Tip: Replace `Vivek-JFS-devloper` with your actual GitHub username.* :contentReference[oaicite:1]{index=1}
 
 ---
 
