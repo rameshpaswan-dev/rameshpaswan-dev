@@ -29,6 +29,8 @@ I’m a dedicated **Full Stack Developer** specializing in **Java, Spring Boot, 
 ![Spring Cloud](https://img.shields.io/badge/-Spring%20Cloud-05122A?style=flat-square&logo=spring)
 ![JPA/Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat-square&logo=hibernate)
 ![Microservices](https://img.shields.io/badge/-Microservices-05122A?style=flat-square)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
 
 #### Frontend
 ![React](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react)
@@ -42,6 +44,8 @@ I’m a dedicated **Full Stack Developer** specializing in **Java, Spring Boot, 
 ### 📦 Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
 
 ---
 
@@ -57,6 +61,8 @@ I’m a dedicated **Full Stack Developer** specializing in **Java, Spring Boot, 
 
 ## 📫 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-paswan-223742227/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ramesh_p_90/)
+
 
 ---
 
