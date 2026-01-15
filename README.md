@@ -55,7 +55,8 @@ I’m a dedicated **Full Stack Developer** specializing in **Java, Spring Boot, 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-JFS-devloper&layout=compact&theme=dark)
 
-> *Tip: Replace `Vivek-JFS-devloper` with your actual GitHub username.* :contentReference[oaicite:1]{index=1}
+> *Tip: Replace `Vivek-JFS-devloper` with your actual GitHub username if needed.*
+
 
 ---
 
