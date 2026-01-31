@@ -13,6 +13,7 @@ I am a **Full Stack & Backend Developer** passionate about building **scalable, 
 - 🌱 Continuously learning **advanced backend patterns, cloud tools, and frontend frameworks**.  
 - 💬 Always happy to discuss **system design, architecture, and best coding practices**.  
 - 📫 Connect with me on **LinkedIn** or **Instagram**!
+- 🌱 Currently expanding my backend expertise with **C#, .NET & ASP.NET Core** alongside Java microservices.
 
 ---
 
@@ -27,6 +28,11 @@ I am a **Full Stack & Backend Developer** passionate about building **scalable, 
 ![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat-square&logo=hibernate)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Microservices](https://img.shields.io/badge/-Microservices-05122A?style=flat-square)
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=csharp)
+![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat-square&logo=dotnet)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-05122A?style=flat-square&logo=dotnet)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-05122A?style=flat-square&logo=dotnet)
+
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react)
